@@ -1,6 +1,6 @@
-{
+module.exports = {
   "presets": [
-    "babel-preset-react-native-stage-0/decorator-support"
+    "babel-preset-expo"
   ],
   "env": {
     "development": {
